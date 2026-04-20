@@ -1,4 +1,4 @@
-# Water Quality Prediction with PySpark and Keras
+# Water Quality in India Prediction with PySpark
 
 A machine learning project that predicts water quality across different states in India using big data processing tools and neural networks.
 
